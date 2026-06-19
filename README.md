@@ -48,8 +48,8 @@ Python · Dash · Plotly · scikit-learn · NLTK · BeautifulSoup4 · Pandas · 
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Kevra-125/Sports-News-Analyzer.git
+cd <Sports-News-Analyzer>
 ```
 
 ### 2. Create a virtual environment & install dependencies
